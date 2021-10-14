@@ -1,0 +1,31 @@
+{
+    "properties" : [ {
+      "trait_type" : "vit",
+      "value" : "0"
+    }, {
+      "trait_type" : "str",
+      "value" : "0"
+    }, {
+      "trait_type" : "agi",
+      "value" : "0"
+    }, {
+      "trait_type" : "int",
+      "value" : "0"
+    }, {
+      "trait_type" : "type",
+      "value" : "totem_gold"
+    },{
+      "trait_type" : "skill",
+      "value" : [1,2,3,4]
+    },{
+      "trait_type" : "miningpower",
+      "value" : "0"
+    },{
+      "trait_type" : "level",
+      "value" : "0"
+    },
+    ],
+    "description" : "A mysterious and shining totem",
+    "image" : "totem-gold.png",
+    "name" : "Golden Totem"
+}
