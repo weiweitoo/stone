@@ -1,7 +1,7 @@
 {
   "name": "Gold Totem",
-  "description": "A mysterious and shining totem",
-  "image": "2.png",
+  "description": "A mysterious and gold totem",
+  "image": "1.png",
   "properties": {
       "vit": {
           "type": "integer",
