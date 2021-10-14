@@ -1,27 +1,48 @@
 {
-  "name": "Wood Totem",
+  "name": "Gold Totem",
   "description": "A mysterious and shining totem",
-  "image": "https:\/\/s3.amazonaws.com\/your-bucket\/images\/{id}.png",
+  "image": "2.png",
   "properties": {
-      "name": {
-          "type": "string",
-          "description": "Identifies the asset to which this token represents"
-      },
-      "decimals": {
+      "vit": {
           "type": "integer",
-          "description": "The number of decimal places that the token amount should display - e.g. 18, means to divide the token amount by 1000000000000000000 to get its user representation."
+          "description": "Describe the VIT power"
       },
-      "description": {
-          "type": "string",
-          "description": "Describes the asset to which this token represents"
+      "str": {
+          "type": "integer",
+          "description": "Describe the STR power"
       },
-      "image": {
-          "type": "string",
-          "description": "A URI pointing to a resource with mime type image/* representing the asset to which this token represents. Consider making any images at a width between 320 and 1080 pixels and aspect ratio between 1.91:1 and 4:5 inclusive."
+      "agi": {
+          "type": "integer",
+          "description": "Describe the AGI power"
       },
-      "properties": {
+      "int": {
+          "type": "integer",
+          "description": "Describe the INT power"
+      },
+      "type": {
           "type": "object",
-          "description": "Arbitrary properties. Values may be strings, numbers, object or arrays."
+          "description": "Describe the troops type"
+      },
+      "skill": {
+          "type": "object",
+          "description": {
+              "1" : "1",
+              "2" : "2",
+              "3" : "3",
+              "4" : "4",
+          }
+      },
+      "mining_power": {
+          "type": "object",
+          "description": "Describe the mining power"
+      },
+      "level": {
+          "type": "integer",
+          "description": "Describe troops level"
+      },
+      "nickname": {
+          "type": "string",
+          "description": "Describe troops name"
       }
-  }
+    }
   }
