@@ -1,4 +1,12 @@
 {
+  "title": "Spider Man",
+  "name": "Spider Man",
+  "type": "object",
+  "imageUrl": "ipfs://QmUGsoNTiscebAfe8Xsp2FJb9zsqdP3u8GsJB18uWEfudk",
+  "description": "Spider Man",
+  "id": 3,
+  "image": "ipfs://QmUGsoNTiscebAfe8Xsp2FJb9zsqdP3u8GsJB18uWEfudk",
+  "httpUrl": "https://ipfs.io/ipfs/QmUGsoNTiscebAfe8Xsp2FJb9zsqdP3u8GsJB18uWEfudk",
   "properties": [{
     "trait_type": "vit",
     "value": "0"
@@ -23,13 +31,5 @@
   }, {
     "trait_type": "level",
     "value": "0"
-  }],
-  "title": "Spider Man",
-  "name": "Spider Man",
-  "type": "object",
-  "imageUrl": "ipfs://QmUGsoNTiscebAfe8Xsp2FJb9zsqdP3u8GsJB18uWEfudk",
-  "description": "Spider Man",
-  "id": 3,
-  "image": "ipfs://QmUGsoNTiscebAfe8Xsp2FJb9zsqdP3u8GsJB18uWEfudk",
-  "httpUrl": "https://ipfs.io/ipfs/QmUGsoNTiscebAfe8Xsp2FJb9zsqdP3u8GsJB18uWEfudk"
+  }]
 }

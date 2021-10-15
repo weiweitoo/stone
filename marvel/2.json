@@ -1,4 +1,12 @@
 {
+  "title": "Iron Man",
+  "name": "Iron Man",
+  "type": "object",
+  "imageUrl": "ipfs://Qma8wgfxjxphJMnXn17V5tSM1zDS2pVqUYCwUkybVT3TZb",
+  "description": "Iron Man",
+  "id": 2,
+  "image": "ipfs://Qma8wgfxjxphJMnXn17V5tSM1zDS2pVqUYCwUkybVT3TZb",
+  "httpUrl": "https://ipfs.io/ipfs/Qma8wgfxjxphJMnXn17V5tSM1zDS2pVqUYCwUkybVT3TZb",
   "properties": [{
     "trait_type": "vit",
     "value": "0"
@@ -23,13 +31,5 @@
   }, {
     "trait_type": "level",
     "value": "0"
-  }],
-  "title": "Iron Man",
-  "name": "Iron Man",
-  "type": "object",
-  "imageUrl": "ipfs://Qma8wgfxjxphJMnXn17V5tSM1zDS2pVqUYCwUkybVT3TZb",
-  "description": "Iron Man",
-  "id": 2,
-  "image": "ipfs://Qma8wgfxjxphJMnXn17V5tSM1zDS2pVqUYCwUkybVT3TZb",
-  "httpUrl": "https://ipfs.io/ipfs/Qma8wgfxjxphJMnXn17V5tSM1zDS2pVqUYCwUkybVT3TZb"
+  }]
 }
