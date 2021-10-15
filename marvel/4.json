@@ -24,12 +24,12 @@
     "trait_type": "level",
     "value": "0"
   }],
-  "title": "Thor",
-  "name": "Thor",
+  "title": "Captain America",
+  "name": "Captain America",
   "type": "object",
-  "imageUrl": "ipfs://QmSg4AgCs6DSzKGYAHcqWzjoA5DzDsDDw1yYTWkBJHQJ6J",
-  "description": "Thor",
-  "id": 1,
-  "image": "ipfs://QmSg4AgCs6DSzKGYAHcqWzjoA5DzDsDDw1yYTWkBJHQJ6J",
-  "httpUrl": "https://ipfs.io/ipfs/QmSg4AgCs6DSzKGYAHcqWzjoA5DzDsDDw1yYTWkBJHQJ6J"
+  "imageUrl": "ipfs://QmfDo3bMAza2VavMjtTs3yVqCZc4Adsb1aCFHN7txRhZyH",
+  "description": "Captain America",
+  "id": 0,
+  "image": "ipfs://QmfDo3bMAza2VavMjtTs3yVqCZc4Adsb1aCFHN7txRhZyH",
+  "httpUrl": "https://ipfs.io/ipfs/QmfDo3bMAza2VavMjtTs3yVqCZc4Adsb1aCFHN7txRhZyH"
 }

@@ -23,7 +23,10 @@
   }, {
     "trait_type": "level",
     "value": "0"
-  }],
+  }, ],
+  // "description": "A mysterious and shining totem",
+  "image": "totem-gold.png",
+  // "name": "Golden Totem",
   "title": "Thor",
   "name": "Thor",
   "type": "object",
