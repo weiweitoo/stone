@@ -1,31 +1,48 @@
 {
-    "properties" : [ {
-      "trait_type" : "vit",
-      "value" : "0"
-    }, {
-      "trait_type" : "str",
-      "value" : "0"
-    }, {
-      "trait_type" : "agi",
-      "value" : "0"
-    }, {
-      "trait_type" : "int",
-      "value" : "0"
-    }, {
-      "trait_type" : "type",
-      "value" : "totem_gold"
-    },{
-      "trait_type" : "skill",
-      "value" : [1,2,3,4]
-    },{
-      "trait_type" : "miningpower",
-      "value" : "0"
-    },{
-      "trait_type" : "level",
-      "value" : "0"
-    },
-    ],
-    "description" : "A mysterious and shining totem",
-    "image" : "totem-gold.png",
-    "name" : "Golden Totem"
-}
+  "name": "Wood Totem",
+  "description": "A mysterious totem",
+  "image": "1.png",
+  "properties": {
+      "vit": {
+          "type": "integer",
+          "description": "Describe the VIT power"
+      },
+      "str": {
+          "type": "integer",
+          "description": "Describe the STR power"
+      },
+      "agi": {
+          "type": "integer",
+          "description": "Describe the AGI power"
+      },
+      "int": {
+          "type": "integer",
+          "description": "Describe the INT power"
+      },
+      "type": {
+          "type": "object",
+          "description": "Describe the troops type"
+      },
+      "skill": {
+          "type": "object",
+          "description": {
+              "1" : "1",
+              "2" : "2",
+              "3" : "3",
+              "4" : "4",
+          }
+      },
+      "mining_power": {
+          "type": "object",
+          "description": "Describe the mining power"
+      },
+      "level": {
+          "type": "integer",
+          "description": "Describe troops level"
+      },
+      "nickname": {
+          "type": "string",
+          "description": "Describe troops name"
+      }
+    }
+  }
